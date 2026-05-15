@@ -7,7 +7,7 @@ url: https://swapnilbamble1438.github.io/VotingApplication/
 
 
 ### Application Features:
-- User can vote the Candidate.
+- User can vote the Candidate. kk devops
 - Admin has the permission to see the vote details.
 
 ### Technology used in this Project: 
